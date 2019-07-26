@@ -7,3 +7,5 @@ Implementation
 -Applying PCA with 2 components
 
 -Applying KernelPCA
+
+-Applying LDA
