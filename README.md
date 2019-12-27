@@ -1,10 +1,10 @@
 # Dimensionality reduction techniques with Pyhton; 
   Dimensionality reduction is a technique that reduce the size of data(for high dimensional datasets) while keeping the most important information.  
-  ### Components of dimensionality reduction:  
+  ## Components of dimensionality reduction:  
     -Feature Selection  
     -Feature Extraction  
       
-  ### Some examples of dimensionality reduction:
+  ## Some examples of dimensionality reduction:
     -Principal Component Analysis(PCA)    
     -Kernal PCA  
     -Linear Discriminant Analysis  
