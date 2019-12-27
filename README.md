@@ -8,6 +8,7 @@
     -Principal Component Analysis(PCA)    
     -Kernal PCA  
     -Linear Discriminant Analysis  
+    -Generalized Discriminant Analysis
       
 ## Implementation:
 
